@@ -1,3 +1,3 @@
 # conti_v3
-Password:ВсеБудеУкраїна
+Password:ВсеБудеУкраїна  
 Only for educational purposes.
